@@ -1,0 +1,8 @@
+{
+	"name": "Header-Parser",
+	"main": "server.js",
+	"dependencies" : {
+		"express": "4.13.4",
+		"cors": "2.7.1"
+	}
+}
